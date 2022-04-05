@@ -1,3 +1,3 @@
-Diretorio para aulas e testes de Python
+Diretorio criado para arquivar o progresso em aulas de python.
 
 
